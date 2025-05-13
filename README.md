@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xingchengh&label=Profile%20views&color=0e75b6&style=flat" alt="Vincent" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VincentHuang67&label=Profile%20views&color=0e75b6&style=flat" alt="Vincent" /> </p>
 
 - 📫 How to reach me **Huangxc6767@gmail.com**
 
